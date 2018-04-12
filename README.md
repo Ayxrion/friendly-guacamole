@@ -1,2 +1,0 @@
-# friendly-guacamole
-HTML code 
